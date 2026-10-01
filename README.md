@@ -14,3 +14,6 @@ pip install pandas
 
 # USE requirements 
 pip install -r requirements.txt
+
+# What is this
+this is basically a platform that can help save content that is not made for children also the idea behind was to monitor videos in a manner that people can access material based on their accessibility.
